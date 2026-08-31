@@ -2,6 +2,7 @@
  * ESP32 Room Scanner
  * HC-SR04 + MG996R + MPU6050 + GPS + DHT11
  * Sends sensor data as JSON over USB.
+ * Made by : VMechLAB ; Vasilije
  */
 
 #include <Wire.h>
